@@ -1,0 +1,111 @@
+{
+  "main": {
+    "name": "Subham Panda",
+    "occupation": "Engineering Student & Lover of Frontend(React) ",
+    "description": "I am B.E.(I.T.) student currently pursuing my degree and will graduate in 2021. I am having love for Reactjs and searching job within it. ",
+    "image": "Subham Panda .jpg",
+    "bio": "My name is Subham, I'm a I.T. Engineer and a fresher. Currently I'm a final year Engineering student at Vasantdada Patil Pratishthan's College of Engineering and Visual Arts ",
+    "contactmessage": "Get in touch with me to receive further details.",
+    "email": "subhampanda2899@gmail.com",
+    "phone": "+91 9967898781",
+    "address": {
+      "street": "2/2,Navjeevan Tenants, Tagore Nagar-1, Vikhroli-East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "country": "India",
+      "zip": "400083"
+    },
+    "website": "https://drive.google.com/drive/u/0/my-drive",
+    "resumedownload": "https://drive.google.com/file/d/1B0AOEtOjBa2lBZyBCyHZIeXTyOHSIjOh/view",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/sonny.sangha.3",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/saajansangha/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/subu_panda/",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/sonnysangha",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "I'm a tinkerer and am always interested in playing around with new technologies but these are the ones that have really won me over",
+    "education": [
+      {
+        "university_1": "University of Mumbai",
+        "school_1": "Vasantdada Patil Pratishthan's College of Engineering and Visual Arts",
+        "degree_1": "Bachelor of Engineering in Information Technology",
+        "graduated_1": "Expected May 2021",
+        "description_1": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "ReactJs",
+        "level": "60%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "Bootstrap && Material-UI",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "50%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "HULU clone with React",
+        "category": "HULU Clone built with ReactJS",
+        "image": "HULU-clone.png",
+        "url": "https://hulu-clone-529ac.web.app/"
+      },
+      {
+        "title": "Messenger",
+        "category": "Messenger with real time database ",
+        "image": "Messenger.png",
+        "url": "https://facebook-messenger-clone-4a6cc.web.app/"
+      },
+      {
+        "title": "Reastaurant",
+        "category": "Reastaurant website with responsive using Bootstrap",
+        "image": "Reastaurant.png",
+        "url": "https://github.com/subhampanda99/Bootstrap"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "I have work with Subham on multiple college projects which has always been a pleasure. He is driven and motivated with a consistently positive attitude.",
+        "user": "Prajwal Pawar"
+      }
+    ]
+  }
+}

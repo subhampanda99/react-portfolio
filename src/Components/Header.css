@@ -1,0 +1,18 @@
+header .banner {
+    display: inline-block;
+    vertical-align: middle;
+    margin: 0 auto;
+    width: 85%;
+    padding-bottom: 30px;
+    padding-top: 30px;
+    text-align: center;
+    background-color: rgba(0,0,0, 0.6);
+    border-radius: 2em;
+}
+
+ul#nav {
+    min-height: 48px;
+    width: auto;
+    background-color: rgba(0,0,0, 0.6);
+    text-align: center;
+}
