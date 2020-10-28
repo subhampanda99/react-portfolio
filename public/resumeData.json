@@ -16,16 +16,16 @@
       "zip": "400083"
     },
     "website": "https://drive.google.com/drive/u/0/my-drive",
-    "resumedownload": "https://drive.google.com/file/d/1B0AOEtOjBa2lBZyBCyHZIeXTyOHSIjOh/view",
+    "resumedownload": "https://drive.google.com/file/d/1FxhRejPcoqbap2_piKrgaZow2jKnA7Tw/view?usp=sharing",
     "social": [
       {
         "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
+        "url": "https://www.facebook.com/shubham.panda.12/",
         "className": "fa fa-facebook"
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
+        "url": "https://www.linkedin.com/in/subham-panda/",
         "className": "fa fa-linkedin"
       },
       {
@@ -35,7 +35,7 @@
       },
       {
         "name": "github",
-        "url": "http://github.com/sonnysangha",
+        "url": "http://github.com/subhampanda99",
         "className": "fa fa-github"
       }
     ]
@@ -49,6 +49,20 @@
         "degree_1": "Bachelor of Engineering in Information Technology",
         "graduated_1": "Expected May 2021",
         "description_1": ""
+      }
+    ],
+    "work": [
+      {
+        "company": "JPMorgan Chase & Co.",
+        "title": "Frontend Web Development",
+        "years": "17th July 2020 - 20th August 2020",
+        "description": "JPMorgan Chase & Co. is an American multinational investment bank and financial services holding company headquartered in New York City. JPMorgan Chase is ranked by S&P Global as the largest bank in the United States and the seventh largest bank in the world. It was a virtual internship at JPMorgan Chase & Co. The role was Software Engineer. The task I have done during this internship             1.Establishing Financial Data Feeds                                                                                                        2.Frontend Web Development                                                                                                                  3.Data Visualization with Perspective"
+      },
+      {
+        "company": "Centillion A Division of Amex Business Solutions Private Limited",
+        "title": "Frontend Developer",
+        "years": "05th February 2020 - 26th April 2020",
+        "description": "Centillion Solutions & Services is well-known in the Banking, Financial Services, and Insurance (BFSI) segment for the enterprise solutions it offers across risk management, transaction processing, and outsourcing and fulfillment services. The company partners with major Banking institutions, Non-Banking Financial Companies (NBFCs), and retail and healthcare services to provide IT-platform based services.                                                                                                                I have worked on Frontend Web Developer during this internship and also work on some backend. The languages I used during this internship is ReactJS, Context API, HTML, CSS, Bootstrap, NodeJS, ExpressJS, MongoDB. It was a great experience working and learning new things with Centillion."
       }
     ],
     "skills": [
@@ -80,6 +94,12 @@
   },
   "portfolio": {
     "projects": [
+      {
+        "title": "Amazon clone with React",
+        "category": "Amazon Clone built with ReactJS, Firebase, Stripe",
+        "image": "Amazon.png",
+        "url": "https://clone-662ae.web.app/"
+      },
       {
         "title": "HULU clone with React",
         "category": "HULU Clone built with ReactJS",
